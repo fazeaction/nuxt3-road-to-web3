@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Aeonik Fono';
+    src: url('/fonts/AeonikFono-Medium.woff2') format('woff2'),
+    url('/fonts/AeonikFono-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik Fono';
+    src: url('/fonts/AeonikFono-Regular.woff2') format('woff2'),
+    url('/fonts/AeonikFono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FT Blank Grotesk';
+    src: url('/fonts/FTBlank-Regular.woff2') format('woff2'),
+    url('/fonts/FTBlank-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+html, body {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+body {
+    overscroll-behavior: contain;
+}
+

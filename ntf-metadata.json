@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Breed",
+    "value" : "Maltipoo"
+  }, {
+    "trait_type" : "Eye color",
+    "value" : "Mocha"
+  } ],
+  "description" : "The world's most adorable and sensitive pup.",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmVEGtDSj3YJMogzpbDuTRddVPB7JXn9Pc3HJ3e3ujokFT",
+  "name" : "BReel logo"
+}
